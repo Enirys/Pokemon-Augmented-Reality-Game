@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="spinarak" size="6.400000 8.963586" />
+    <ImageTarget name="totodile" size="6.400000 9.039548" />
+    <ImageTarget name="mantine" size="6.400000 9.039548" />
+    <ImageTarget name="lanturn" size="6.400000 9.066667" />
+    <ImageTarget name="hoppip" size="6.400000 9.039548" />
+    <ImageTarget name="chinchou" size="6.400000 8.930233" />
+    <ImageTarget name="farfetchd" size="6.400000 8.704000" />
+    <ImageTarget name="weedle" size="6.400000 8.916409" />
+    <ImageTarget name="tangela" size="6.400000 9.039548" />
+    <ImageTarget name="starmie" size="6.400000 9.039548" />
+    <ImageTarget name="staryu" size="6.400000 9.031111" />
+    <ImageTarget name="oddish" size="6.400000 8.971963" />
+    <ImageTarget name="horsea" size="6.400000 8.916409" />
+    <ImageTarget name="magikarp" size="6.400000 8.913649" />
+    <ImageTarget name="Pikachu" size="6.400000 8.977778" />
+    <ImageTarget name="wartortle" size="6.400000 9.039548" />
+    <ImageTarget name="Bulbasaur" size="6.400000 8.960000" />
+  </Tracking>
+</QCARConfig>

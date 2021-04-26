@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: e8f16723eba8da343beab9d33a35b551
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001 pm0043_00
+    100002: 002 Origin
+    100004: 003 Waist
+    100006: 004 EndWaist
+    100008: 005 FeelerA1
+    100010: 006 FeelerA2
+    100012: 007 FeelerA3
+    100014: 008 FeelerA4
+    100016: 009 EndFeelerA4
+    100018: 010 LFeelerB1
+    100020: 011 LFeelerB2
+    100022: 012 LFeelerB3
+    100024: 013 EndLFeelerB3
+    100026: 014 LFeelerC1
+    100028: 015 LFeelerC2
+    100030: 016 LFeelerC3
+    100032: 017 EndLFeelerC3
+    100034: 018 LThigh
+    100036: 019 LFoot
+    100038: 020 EndLFoot
+    100040: 021 LToe
+    100042: 022 EndLToe
+    100044: 023 RFeelerB1
+    100046: 024 RFeelerB2
+    100048: 025 RFeelerB3
+    100050: 026 EndRFeelerB3
+    100052: 027 RFeelerC1
+    100054: 028 RFeelerC2
+    100056: 029 RFeelerC3
+    100058: 030 EndRFeelerC3
+    100060: 031 RThigh
+    100062: 032 RFoot
+    100064: 033 EndRFoot
+    100066: 034 RToe
+    100068: 035 EndRToe
+    100070: 036 pm0043_00_bodyASkin
+    100072: 037 pm0043_00_bodyBSkin
+    100074: //RootNode
+    100076: Oodish
+    400000: 001 pm0043_00
+    400002: 002 Origin
+    400004: 003 Waist
+    400006: 004 EndWaist
+    400008: 005 FeelerA1
+    400010: 006 FeelerA2
+    400012: 007 FeelerA3
+    400014: 008 FeelerA4
+    400016: 009 EndFeelerA4
+    400018: 010 LFeelerB1
+    400020: 011 LFeelerB2
+    400022: 012 LFeelerB3
+    400024: 013 EndLFeelerB3
+    400026: 014 LFeelerC1
+    400028: 015 LFeelerC2
+    400030: 016 LFeelerC3
+    400032: 017 EndLFeelerC3
+    400034: 018 LThigh
+    400036: 019 LFoot
+    400038: 020 EndLFoot
+    400040: 021 LToe
+    400042: 022 EndLToe
+    400044: 023 RFeelerB1
+    400046: 024 RFeelerB2
+    400048: 025 RFeelerB3
+    400050: 026 EndRFeelerB3
+    400052: 027 RFeelerC1
+    400054: 028 RFeelerC2
+    400056: 029 RFeelerC3
+    400058: 030 EndRFeelerC3
+    400060: 031 RThigh
+    400062: 032 RFoot
+    400064: 033 EndRFoot
+    400066: 034 RToe
+    400068: 035 EndRToe
+    400070: 036 pm0043_00_bodyASkin
+    400072: 037 pm0043_00_bodyBSkin
+    400074: //RootNode
+    400076: Oodish
+    2100000: Body
+    2100002: Mouth
+    2100004: Eye
+    4300000: Oodish
+    9500000: //RootNode
+    13700000: Oodish
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

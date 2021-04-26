@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 74344847ceff306498789d94a19f48c4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bulbasaur
+    100002: Bulbasaur_Body
+    100004: Bulbasaur_Eyes
+    100006: Bulbasaur_LVine
+    100008: Bulbasaur_RVine
+    100010: //RootNode
+    100012: EndFeeler
+    100014: EndHead
+    100016: EndHips
+    100018: EndJaw
+    100020: EndLEar
+    100022: EndLFeelerC10
+    100024: EndLFinger
+    100026: EndLFoot
+    100028: EndLHand
+    100030: EndLToe
+    100032: EndREar
+    100034: EndRFeelerC10
+    100036: EndRFinger
+    100038: EndRFoot
+    100040: EndRHand
+    100042: EndRToe
+    100044: Feeler
+    100046: Head
+    100048: Hips
+    100050: Jaw
+    100052: LArm
+    100054: LEar
+    100056: LFeelerC01
+    100058: LFeelerC02
+    100060: LFeelerC03
+    100062: LFeelerC04
+    100064: LFeelerC05
+    100066: LFeelerC06
+    100068: LFeelerC07
+    100070: LFeelerC08
+    100072: LFeelerC09
+    100074: LFeelerC10
+    100076: LFinger
+    100078: LFoot
+    100080: LForeArm
+    100082: LHand
+    100084: LHips
+    100086: LLeg
+    100088: LShoulder
+    100090: LThigh
+    100092: LToe
+    100094: Origin
+    100096: pm0001_00
+    100098: pm0001_00_BodySkin
+    100100: pm0001_00_IrisSkin
+    100102: pm0001_00_LTutaSkin
+    100104: pm0001_00_RTutaSkin
+    100106: RArm
+    100108: REar
+    100110: RFeelerC01
+    100112: RFeelerC02
+    100114: RFeelerC03
+    100116: RFeelerC04
+    100118: RFeelerC05
+    100120: RFeelerC06
+    100122: RFeelerC07
+    100124: RFeelerC08
+    100126: RFeelerC09
+    100128: RFeelerC10
+    100130: RFinger
+    100132: RFoot
+    100134: RForeArm
+    100136: RHand
+    100138: RHips
+    100140: RLeg
+    100142: RShoulder
+    100144: RThigh
+    100146: RToe
+    100148: Spine1
+    100150: Spine2
+    100152: Waist
+    400000: Bulbasaur
+    400002: Bulbasaur_Body
+    400004: Bulbasaur_Eyes
+    400006: Bulbasaur_LVine
+    400008: Bulbasaur_RVine
+    400010: //RootNode
+    400012: EndFeeler
+    400014: EndHead
+    400016: EndHips
+    400018: EndJaw
+    400020: EndLEar
+    400022: EndLFeelerC10
+    400024: EndLFinger
+    400026: EndLFoot
+    400028: EndLHand
+    400030: EndLToe
+    400032: EndREar
+    400034: EndRFeelerC10
+    400036: EndRFinger
+    400038: EndRFoot
+    400040: EndRHand
+    400042: EndRToe
+    400044: Feeler
+    400046: Head
+    400048: Hips
+    400050: Jaw
+    400052: LArm
+    400054: LEar
+    400056: LFeelerC01
+    400058: LFeelerC02
+    400060: LFeelerC03
+    400062: LFeelerC04
+    400064: LFeelerC05
+    400066: LFeelerC06
+    400068: LFeelerC07
+    400070: LFeelerC08
+    400072: LFeelerC09
+    400074: LFeelerC10
+    400076: LFinger
+    400078: LFoot
+    400080: LForeArm
+    400082: LHand
+    400084: LHips
+    400086: LLeg
+    400088: LShoulder
+    400090: LThigh
+    400092: LToe
+    400094: Origin
+    400096: pm0001_00
+    400098: pm0001_00_BodySkin
+    400100: pm0001_00_IrisSkin
+    400102: pm0001_00_LTutaSkin
+    400104: pm0001_00_RTutaSkin
+    400106: RArm
+    400108: REar
+    400110: RFeelerC01
+    400112: RFeelerC02
+    400114: RFeelerC03
+    400116: RFeelerC04
+    400118: RFeelerC05
+    400120: RFeelerC06
+    400122: RFeelerC07
+    400124: RFeelerC08
+    400126: RFeelerC09
+    400128: RFeelerC10
+    400130: RFinger
+    400132: RFoot
+    400134: RForeArm
+    400136: RHand
+    400138: RHips
+    400140: RLeg
+    400142: RShoulder
+    400144: RThigh
+    400146: RToe
+    400148: Spine1
+    400150: Spine2
+    400152: Waist
+    2100000: 'Material #11'
+    2100002: 'Material #10'
+    2100004: 'Material #12'
+    2100006: 'Material #12.1'
+    2100008: 'Material #12.2'
+    4300000: Bulbasaur_Eyes
+    4300002: Bulbasaur_Body
+    4300004: Bulbasaur
+    4300006: Bulbasaur_LVine
+    4300008: Bulbasaur_RVine
+    7400000: Basis
+    9500000: //RootNode
+    13700000: Bulbasaur
+    13700002: Bulbasaur_Body
+    13700004: Bulbasaur_Eyes
+    13700006: Bulbasaur_LVine
+    13700008: Bulbasaur_RVine
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
